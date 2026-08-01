@@ -1,0 +1,13 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://pasito.ai/security
+url: https://pasito.ai/security
+certifications:
+- SOC 2
+- HIPAA
+evidence:
+- source: https://pasito.ai/security
+  keywords:
+  - soc 2
+  - hipaa

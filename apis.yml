@@ -1,7 +1,18 @@
 aid: pasito
 name: Pasito
-description: Pasito is a company surfaced as a portfolio company of insight-partners and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Pasito is an AI-native workspace for employee benefits that helps benefits
+  consultants, insurance carriers, and employers simplify every part of the
+  benefits journey — from proposal and quoting through enrollment to year-round
+  employee engagement — using agentic AI workflows. The platform turns
+  unstructured plan documents and census data into a structured data layer that
+  powers a conversational AI benefits assistant, automated proposal/RFP intake,
+  benefits guides and microsites, decision support, and communications. Pasito
+  reports supporting over 6.6 million employees, managing $106B in premiums, and
+  serving 3,600+ employers, integrating with 950+ TPA systems and 260+ HRIS
+  platforms. Backed by Google, Y Combinator, and Core Innovation Capital, the
+  company is building a public-facing API but does not yet publish a developer
+  portal, documentation, or API reference.
 url: https://raw.githubusercontent.com/api-evangelist/pasito/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +20,30 @@ x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://pasito.ai/wp-content/uploads/2024/03/pasito-sq-logo.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Employee Benefits
+- Insurance
+- Artificial Intelligence
+- Insurtech
+- Human Resources
+- Health
+- AI Agents
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +53,24 @@ maintainers:
 common:
 - type: Website
   url: https://pasito.ai/
+- type: Blog
+  url: https://pasito.ai/resources/blog
+- type: Login
+  url: https://app.pasito.ai/
+- type: TermsOfService
+  url: https://pasito.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://pasito.ai/privacy-policy
+- type: TrustCenter
+  url: security/pasito-trust-center.yml
+- type: Compliance
+  url: https://pasito.ai/security
+- type: LLMsTxt
+  url: llms/pasito-llms.txt
+- type: DomainSecurity
+  url: security/pasito-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

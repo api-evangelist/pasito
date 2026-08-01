@@ -1,0 +1,48 @@
+# Pasito
+
+> Pasito is the AI-native workspace for employee benefits. The platform empowers benefits consultants, insurance carriers, and employers to simplify every part of the benefits journey — from proposal to enrollment to year-round employee engagement — using agentic AI workflows. Pasito supports over 6.6 million employees, manages $106B in premiums, and serves 3,600+ employers. Backed by Google, Y Combinator, and Core Innovation Capital.
+
+Pasito's mission is to simplify the world of employee benefits so more families can live healthier lives and retire with dignity. The platform reduces manual back-office work, improves benefits utilization, and delivers personalized decision support to employees at scale. It integrates with 950+ TPA systems and 260+ HRIS platforms.
+
+## Product
+
+- [Platform Overview](https://pasito.ai/what-we-do): Full description of Pasito's agentic AI workspace, including the AI benefits assistant, benefits content management, proposal intake, analytics, and integrations. Key metrics: 45% increase in supplemental coverage elections, 85% less time managing benefits, 80% higher HSA contributions.
+
+## Who We Serve
+
+- [Benefits Consultants](https://pasito.ai/who-we-serve/benefits-consultants): How Pasito helps brokers and consultants automate back-office operations, deliver better client experiences, and win more business.
+- [Benefits Guides](https://pasito.ai/who-we-serve/benefits-consultants/benefits-guides): AI-generated benefits guides built from plan documents, eliminating manual document creation.
+- [Benefits Microsites](https://pasito.ai/who-we-serve/benefits-consultants/benefits-microsites): Automatically generated microsites for interactive, accessible benefits education at the employee level.
+- [AI Benefits Assistant (Consultants)](https://pasito.ai/who-we-serve/benefits-consultants/ai-benefits-assistant): Conversational AI trained on client plan documents; customizable tone and instructions; frees teams from repetitive support calls.
+- [Proposal Comparison](https://pasito.ai/who-we-serve/benefits-consultants/proposal-comparison): Agentic RFP/proposal intake with automated AI extraction for side-by-side plan comparisons.
+- [Insurance Carriers](https://pasito.ai/who-we-serve/insurance-carriers): How Pasito supports carriers with decision support tools, marketing document generation, AI assistants, and RFP intake management.
+- [Decision Support (Carriers)](https://pasito.ai/who-we-serve/insurance-carriers/decision-support): Personalized, unbiased plan selection guidance for enrollees.
+- [Marketing Documents / Highlight Sheets](https://pasito.ai/who-we-serve/insurance-carriers/highlight-sheets-and-marketing-documents): AI-assisted creation of carrier marketing collateral.
+- [AI Benefits Assistant (Carriers)](https://pasito.ai/who-we-serve/insurance-carriers/ai-benefits-assistant): Always-on AI agent for carrier-branded employee benefits support.
+- [RFP Intake Management](https://pasito.ai/who-we-serve/insurance-carriers/rfp-intake-management): Automated intake and processing of RFPs for insurance carriers.
+- [Employers](https://pasito.ai/who-we-serve/employers): How Pasito helps HR and benefits teams deliver better employee experiences with less manual effort.
+- [Decision Support (Employers)](https://pasito.ai/who-we-serve/employers/decision-support): Personalized plan selection guidance that drives smarter enrollment decisions and reduces costs.
+- [Benefits Microsite & Benefits Hub](https://pasito.ai/who-we-serve/employers/benefits-microsite-and-benefits-hub): Centralized, AI-generated benefits hubs and microsites for employees.
+- [AI Benefits Assistant (Employers)](https://pasito.ai/who-we-serve/employers/ai-benefits-assistant): Branded, customizable AI assistant that answers employee benefits questions 24/7.
+- [Year-Round Communications](https://pasito.ai/who-we-serve/employers/year-round-communications): AI-driven SMS and email campaigns to keep employees engaged with their benefits outside open enrollment.
+
+## Company
+
+- [About Us](https://pasito.ai/who-we-are/about-us): Company mission, values (integrity, passion, urgency, ownership, trust, optimism), investor background (Google, Y Combinator, Core Innovation Capital), and founding context. Founders have backgrounds from SoFi, Uber, and Snap.
+- [Press](https://pasito.ai/who-we-are/press): News coverage and press releases about Pasito.
+
+## Resources
+
+- [Blog](https://pasito.ai/resources/blog): Articles on AI in benefits, HR trends, open enrollment strategy, and benefits communication best practices.
+- [Case Studies](https://pasito.ai/resources/case-studies): Real-world results from employers and benefits consultants using Pasito, including cost containment and engagement metrics.
+
+## Legal & Trust
+
+- [Terms of Service](https://pasito.ai/terms-of-service)
+- [Privacy Policy](https://pasito.ai/privacy-policy)
+- [Security](https://pasito.ai/security)
+
+## App & Contact
+
+- [Request a Demo](https://pasito.ai/demo): Contact form to schedule a personalized walkthrough with a Pasito benefits expert.
+- [Login](https://app.pasito.ai/): Access to the Pasito workspace application.
